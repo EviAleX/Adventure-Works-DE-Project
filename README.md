@@ -2,7 +2,7 @@
 
 This project demonstrates a complete end-to-end data engineering solution built on the Microsoft Azure platform. The pipeline ingests the AdventureWorks dataset from a public GitHub repository, processes it through a multi-stage architecture, and serves it to Power BI for business intelligence and analytics.
 
-<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/eb1cb424-0af5-4c3f-ae80-96fc942de03e" />
+![Architecture Diagram](./images/architecture.png)
 
 ---
 ## 🏛️**Architecture Overview**
